@@ -32,7 +32,6 @@ body
 
 .Joker:hover
 {
-    background: linear-gradient(135deg #3300ff, #9500ff);
     transform: scale(1.05);
 }
 
