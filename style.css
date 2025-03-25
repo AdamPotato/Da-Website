@@ -29,3 +29,15 @@ body
     transition: all 0.3s ease-in-out;
     width: 240px;
 }
+
+.Joker:hover
+{
+    background: linear-gradient(135deg #3300ff, #9500ff);
+    transform: scale (1,1);
+}
+
+.Joker:active
+{
+    transform: (1,1);
+    box-shadow: none;
+}
