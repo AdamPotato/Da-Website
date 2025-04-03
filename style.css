@@ -37,6 +37,6 @@ body
 
 .Joker:active
 {
-    transform: scale(1);
+    transform: scale(1.03);
     box-shadow: none;
 }
